@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: xzxTool
+Version: 0.1
+Summary: For self use
+Author: Zhixin Xie
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: pandas

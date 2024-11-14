@@ -1,0 +1,7 @@
+README.md
+setup.py
+xzxTool.egg-info/PKG-INFO
+xzxTool.egg-info/SOURCES.txt
+xzxTool.egg-info/dependency_links.txt
+xzxTool.egg-info/requires.txt
+xzxTool.egg-info/top_level.txt
