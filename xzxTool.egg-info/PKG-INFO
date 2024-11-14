@@ -1,9 +1,16 @@
 Metadata-Version: 2.1
 Name: xzxTool
-Version: 0.1
+Version: 0.1.2
 Summary: For self use
-Author: Zhixin Xie
-Requires-Dist: transformers
-Requires-Dist: torch
-Requires-Dist: numpy
-Requires-Dist: pandas
+Author-email: Zhixin <ZHIXIN001@e.ntu.edu.sg>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=2.0
+Requires-Dist: transformers>=4.4
+
+# xzxTool
+For self use
+https://github.com/ZHIXINXIE/xzxTool.git

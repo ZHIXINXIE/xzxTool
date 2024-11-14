@@ -1,5 +1,11 @@
 README.md
+pyproject.toml
 setup.py
+xzxTool/HandleCsv.py
+xzxTool/__init__.py
+xzxTool/chat.py
+xzxTool/config.py
+xzxTool/op.py
 xzxTool.egg-info/PKG-INFO
 xzxTool.egg-info/SOURCES.txt
 xzxTool.egg-info/dependency_links.txt
