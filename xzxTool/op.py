@@ -1,6 +1,8 @@
 import pickle,os
 import numpy as np
 import shutil
+import sys
+sys.path.append("/home/zhixin/research/rollingreplace/nanoGCG/")
 def save(data,filename):
     file = open(filename, 'wb')
     str = pickle.dumps(data)
