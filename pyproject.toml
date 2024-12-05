@@ -19,6 +19,8 @@ requires-python = ">=3.9"
 dependencies = [
     "torch>=2.0",
     "transformers>=4.4",
+    "google.generativeai",
+    "huggingface_hub",
 ]
 
 [tool.setuptools]
